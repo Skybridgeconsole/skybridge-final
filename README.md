@@ -1,1 +1,1 @@
-# Skybridge Console UI - Clean layout build
+# Skybridge Console — Live Homepage
