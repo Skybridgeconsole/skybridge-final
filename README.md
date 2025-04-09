@@ -1,3 +1,3 @@
 # Skybridge Console
 
-This is the final working version of the MVP.
+This is a fully working version of the MVP homepage and dashboard.
