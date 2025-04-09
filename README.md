@@ -1,1 +1,1 @@
-# Skybridge Console — Final Commit
+# Skybridge Console UI - Clean layout build

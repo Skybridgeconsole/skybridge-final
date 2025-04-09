@@ -1,0 +1,1 @@
+// ModuleTile component placeholder
